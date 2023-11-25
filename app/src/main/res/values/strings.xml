@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MovieApp</string>
+    <string name="setting_text">Settings Screen</string>
+</resources>
